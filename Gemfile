@@ -31,10 +31,12 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
+#
 
 gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'haml-rails'
+gem 'mysql2'
 gem 'thinking-sphinx'
 gem 'redis'
 gem 'hiredis'
